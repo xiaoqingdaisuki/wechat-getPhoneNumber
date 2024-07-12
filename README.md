@@ -5,7 +5,7 @@
 
 run:
 
-git clone https://github.com/xiaoqingdaisuki/wechat-phoneNumber.git
+git clone https://github.com/xiaoqingdaisuki/wechat-getPhoneNumber.git
 
 cd wechat-phoneNumber
 
